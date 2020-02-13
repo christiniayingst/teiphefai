@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pangaeghi.overhead.xyz/sitemap.xml
